@@ -1,2 +1,2 @@
-# Hello-World-
-My first repository on GitHub
+# ST10102630-PROG5121-POE
+Siyabonga Shaba: ST10102630
